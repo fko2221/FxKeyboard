@@ -34,7 +34,7 @@ FxKeyboardLocales.en = {
         ['p', 'P', '0', ''],
         [{'label': "\u232B", special: 8, flex: 10, type: 'repeat', class: 'fxKeyboardActionKeys backspace'}] // backspace
     ], [
-        [{'label': "1#&", flex: 15, special: 'alt', class: 'fxKeyboardActionKeys alt'}], // alt
+        [{'label': "123", flex: 15, special: 'alt', class: 'fxKeyboardActionKeys alt'}], // alt
         ['a', 'A', '#', '€'],
         ['s', 'S', '$', '£'],
         ['d', 'D', '|', '¥'],
